@@ -1,0 +1,14 @@
+D:\CsPrograms\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsPrograms\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.AssemblyInfoInputs.cache
+D:\CsPrograms\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.AssemblyInfo.cs
+D:\CsPrograms\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.csproj.CoreCompileInputs.cache
+D:\CsPrograms\Lab4\Lab4\bin\Debug\net8.0-windows\Lab4.exe
+D:\CsPrograms\Lab4\Lab4\bin\Debug\net8.0-windows\Lab4.deps.json
+D:\CsPrograms\Lab4\Lab4\bin\Debug\net8.0-windows\Lab4.runtimeconfig.json
+D:\CsPrograms\Lab4\Lab4\bin\Debug\net8.0-windows\Lab4.dll
+D:\CsPrograms\Lab4\Lab4\bin\Debug\net8.0-windows\Lab4.pdb
+D:\CsPrograms\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.dll
+D:\CsPrograms\Lab4\Lab4\obj\Debug\net8.0-windows\refint\Lab4.dll
+D:\CsPrograms\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.pdb
+D:\CsPrograms\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.genruntimeconfig.cache
+D:\CsPrograms\Lab4\Lab4\obj\Debug\net8.0-windows\ref\Lab4.dll

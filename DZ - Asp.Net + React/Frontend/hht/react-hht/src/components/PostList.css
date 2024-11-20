@@ -1,0 +1,191 @@
+/* Обновлённые стили для контейнера задач */
+.tasks-container {
+    display: flex;
+    flex-direction: column; /* Размещаем задачи в столбик */
+    margin-top: 20px; /* Отступ сверху для разделения с панелями дней */
+    padding: 0 10px; /* Добавим немного отступов по бокам для удобства */
+}
+
+/* Стили для панелей дней */
+.day-panels {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.day-panel {
+    flex: 1 1 130px; /* Задайте желаемую ширину для панелей */
+    margin: 5px;
+    padding: 15px;
+    background-color: #ffd094; /* Цвет фона панели */
+    color: #333;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.day-panel:hover {
+    background-color: #ffb84d; /* Цвет при наведении */
+    transform: scale(1.02); /* Увеличение панели при наведении */
+}
+
+.day-panel.active {
+    background-color: #ffcc00; /* Цвет для активной панели */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Увеличенный теневой эффект для активной панели */
+}
+
+/* Стили для карточек задач */
+.post-card {
+    width: 100%; /* Задаем ширину 100% для карточки */
+    margin: 10px 0; /* Отступы между задачами */
+    padding: 20px; /* Внутренние отступы */
+    background: linear-gradient(to bottom, #ffd094 60px, #fff 20px); /* Градиентный фон */
+    color: #333;
+    border-radius: 20px; /* Меньше закругленные углы для более строгого вида */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Тень для карточки */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Анимация на hover */
+}
+
+.post-card:hover {
+    transform: scale(1.05); /* Легкое увеличение карточки */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Более яркая тень на hover */
+}
+
+/* Стили для содержимого карточек */
+.post-content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Отступы между элементами */
+}
+
+.post-content h4 {
+    font-size: 20px;
+    color: #333; /* Цвет заголовка */
+    margin-bottom: 10px; /* Отступ снизу */
+    font-weight: bold; /* Добавим жирный шрифт для улучшения читаемости */
+}
+
+.post-content p {
+    margin: 5px 0; /* Легкие отступы для абзацев */
+    font-size: 16px;
+    line-height: 1.5; /* Увеличенная высота строки для лучшей читаемости */
+    color: #555; /* Более светлый цвет для текста */
+}
+
+.post-content p strong {
+    font-weight: bold;
+    color: #333; /* Цвет для выделенных слов */
+}
+
+/* Стили для кнопки удаления */
+.delete-button {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.delete-button:hover {
+    background-color: #ff1a1a;
+    transform: scale(1.05); /* Увеличение кнопки при наведении */
+}
+
+.complete-button {
+    background-color: #4caf50; /* Зеленый цвет */
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.complete-button:hover {
+    background-color: #45a049; /* Темно-зеленый при наведении */
+    transform: scale(1.05); /* Увеличение кнопки при наведении */
+}
+
+.status-indicator-container {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+}
+
+.status-indicator.green {
+    color: green;
+}
+
+.status-indicator.blue {
+    color: blue;
+}
+
+.status-indicator.red {
+    color: red;
+}
+
+/* Пагинация */
+.pagination {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.pagination button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #3b82f6;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.pagination button:hover {
+    background-color: #2563eb;
+}
+
+/* Мобильная адаптивность */
+@media (max-width: 768px) {
+    .day-panels {
+        flex-direction: column;
+    }
+    
+    .day-panel {
+        flex: 1 1 100%; /* Панели дней будут растягиваться на всю ширину */
+        margin-bottom: 10px;
+    }
+    
+    .post-card {
+        padding: 15px; /* Уменьшаем отступы внутри карточки на маленьких экранах */
+    }
+
+    .pagination {
+        flex-direction: column; /* Размещаем кнопки пагинации вертикально */
+        align-items: center;
+    }
+}
+
+/* Контейнер для прогресс-бара */
+.progress-bar-container {
+    width: 100%;
+    height: 10px;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+/* Стиль для прогресс-бара */
+.progress-bar {
+    height: 100%;
+    border-radius: 5px;
+    background-color: #4caf50; /* Зеленый цвет для завершенности */
+    transition: width 1s ease-in-out; /* Плавное изменение */
+}

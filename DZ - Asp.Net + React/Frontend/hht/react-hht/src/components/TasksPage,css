@@ -1,0 +1,27 @@
+/* TasksPage.css */
+.tasks-page {
+    padding: 20px;
+  }
+  
+  .post-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .post-card {
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 10px 0;
+    padding: 15px;
+  }
+  
+  .post-content h2 {
+    font-size: 18px;
+    margin: 0 0 10px;
+  }
+  
+  .post-content p {
+    margin: 5px 0;
+  }
+  

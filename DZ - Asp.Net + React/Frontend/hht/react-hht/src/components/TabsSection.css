@@ -1,0 +1,41 @@
+.tabs {
+  display: flex;
+  gap: 1rem;
+}
+
+.tab-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.tab-button.active {
+  font-weight: bold;
+}
+
+.tab-button:nth-child(1) {
+  background-color: #ffa500; /* Оранжевый для "Список задач" */
+  color: white;
+}
+
+.tab-button:nth-child(2) {
+  background-color: #28a745; /* Зеленый для "Создать задачу" */
+  color: white;
+}
+
+.tab-button:nth-child(3) {
+  background-color: #007bff; /* Синий для "Логин" */
+  color: white;
+}
+
+.tab-button:nth-child(4) {
+  background-color: #6c757d; /* Серый для "Регистрация" */
+  color: white;
+}
+
+.tab-button:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,13 @@
+E:\CsPrograms\Hakaton\Hahaton.Core\bin\Debug\net8.0\Hahaton.Core.deps.json
+E:\CsPrograms\Hakaton\Hahaton.Core\bin\Debug\net8.0\Hahaton.Core.dll
+E:\CsPrograms\Hakaton\Hahaton.Core\bin\Debug\net8.0\Hahaton.Core.pdb
+E:\CsPrograms\Hakaton\Hahaton.Core\obj\Debug\net8.0\Hahaton.Core.csproj.AssemblyReference.cache
+E:\CsPrograms\Hakaton\Hahaton.Core\obj\Debug\net8.0\Hahaton.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\CsPrograms\Hakaton\Hahaton.Core\obj\Debug\net8.0\Hahaton.Core.AssemblyInfoInputs.cache
+E:\CsPrograms\Hakaton\Hahaton.Core\obj\Debug\net8.0\Hahaton.Core.AssemblyInfo.cs
+E:\CsPrograms\Hakaton\Hahaton.Core\obj\Debug\net8.0\Hahaton.Core.csproj.CoreCompileInputs.cache
+E:\CsPrograms\Hakaton\Hahaton.Core\obj\Debug\net8.0\Hahaton.Core.sourcelink.json
+E:\CsPrograms\Hakaton\Hahaton.Core\obj\Debug\net8.0\Hahaton.Core.dll
+E:\CsPrograms\Hakaton\Hahaton.Core\obj\Debug\net8.0\refint\Hahaton.Core.dll
+E:\CsPrograms\Hakaton\Hahaton.Core\obj\Debug\net8.0\Hahaton.Core.pdb
+E:\CsPrograms\Hakaton\Hahaton.Core\obj\Debug\net8.0\ref\Hahaton.Core.dll

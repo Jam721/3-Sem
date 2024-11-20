@@ -1,0 +1,14 @@
+D:\CsPrograms\Lab2\Lab2\bin\Debug\net8.0\Lab2.exe
+D:\CsPrograms\Lab2\Lab2\bin\Debug\net8.0\Lab2.deps.json
+D:\CsPrograms\Lab2\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+D:\CsPrograms\Lab2\Lab2\bin\Debug\net8.0\Lab2.dll
+D:\CsPrograms\Lab2\Lab2\bin\Debug\net8.0\Lab2.pdb
+D:\CsPrograms\Lab2\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsPrograms\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+D:\CsPrograms\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+D:\CsPrograms\Lab2\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+D:\CsPrograms\Lab2\Lab2\obj\Debug\net8.0\Lab2.dll
+D:\CsPrograms\Lab2\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+D:\CsPrograms\Lab2\Lab2\obj\Debug\net8.0\Lab2.pdb
+D:\CsPrograms\Lab2\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+D:\CsPrograms\Lab2\Lab2\obj\Debug\net8.0\ref\Lab2.dll
