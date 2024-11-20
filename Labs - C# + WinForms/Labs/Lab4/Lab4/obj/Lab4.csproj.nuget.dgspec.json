@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Labs_3_sem\\Lab4\\Lab4\\Lab4.csproj": {}
+    "C:\\Users\\artur\\OneDrive\\Desktop\\3-Sem\\Labs - C# + WinForms\\Labs\\Lab4\\Lab4\\Lab4.csproj": {}
   },
   "projects": {
-    "E:\\Labs_3_sem\\Lab4\\Lab4\\Lab4.csproj": {
+    "C:\\Users\\artur\\OneDrive\\Desktop\\3-Sem\\Labs - C# + WinForms\\Labs\\Lab4\\Lab4\\Lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Labs_3_sem\\Lab4\\Lab4\\Lab4.csproj",
+        "projectUniqueName": "C:\\Users\\artur\\OneDrive\\Desktop\\3-Sem\\Labs - C# + WinForms\\Labs\\Lab4\\Lab4\\Lab4.csproj",
         "projectName": "Lab4",
-        "projectPath": "E:\\Labs_3_sem\\Lab4\\Lab4\\Lab4.csproj",
+        "projectPath": "C:\\Users\\artur\\OneDrive\\Desktop\\3-Sem\\Labs - C# + WinForms\\Labs\\Lab4\\Lab4\\Lab4.csproj",
         "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-        "outputPath": "E:\\Labs_3_sem\\Lab4\\Lab4\\obj\\",
+        "outputPath": "C:\\Users\\artur\\OneDrive\\Desktop\\3-Sem\\Labs - C# + WinForms\\Labs\\Lab4\\Lab4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config"

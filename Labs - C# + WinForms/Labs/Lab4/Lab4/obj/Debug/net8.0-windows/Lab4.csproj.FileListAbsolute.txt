@@ -12,3 +12,18 @@ D:\CsPrograms\Lab4\Lab4\obj\Debug\net8.0-windows\refint\Lab4.dll
 D:\CsPrograms\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.pdb
 D:\CsPrograms\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.genruntimeconfig.cache
 D:\CsPrograms\Lab4\Lab4\obj\Debug\net8.0-windows\ref\Lab4.dll
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab4\Lab4\bin\Debug\net8.0-windows\Lab4.exe
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab4\Lab4\bin\Debug\net8.0-windows\Lab4.deps.json
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab4\Lab4\bin\Debug\net8.0-windows\Lab4.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab4\Lab4\bin\Debug\net8.0-windows\Lab4.dll
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab4\Lab4\bin\Debug\net8.0-windows\Lab4.pdb
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.sourcelink.json
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.dll
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab4\Lab4\obj\Debug\net8.0-windows\refint\Lab4.dll
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.pdb
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.genruntimeconfig.cache
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab4\Lab4\obj\Debug\net8.0-windows\ref\Lab4.dll

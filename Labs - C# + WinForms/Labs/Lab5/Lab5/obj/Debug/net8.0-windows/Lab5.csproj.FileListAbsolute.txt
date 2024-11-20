@@ -28,3 +28,18 @@ C:\Users\unnam\OneDrive\Рабочий стол\Labs_3_sem\Lab5\Lab5\obj\Debug\n
 C:\Users\unnam\OneDrive\Рабочий стол\Labs_3_sem\Lab5\Lab5\obj\Debug\net8.0-windows\Lab5.pdb
 C:\Users\unnam\OneDrive\Рабочий стол\Labs_3_sem\Lab5\Lab5\obj\Debug\net8.0-windows\Lab5.genruntimeconfig.cache
 C:\Users\unnam\OneDrive\Рабочий стол\Labs_3_sem\Lab5\Lab5\obj\Debug\net8.0-windows\ref\Lab5.dll
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab5\Lab5\bin\Debug\net8.0-windows\Lab5.exe
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab5\Lab5\bin\Debug\net8.0-windows\Lab5.deps.json
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab5\Lab5\bin\Debug\net8.0-windows\Lab5.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab5\Lab5\bin\Debug\net8.0-windows\Lab5.dll
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab5\Lab5\bin\Debug\net8.0-windows\Lab5.pdb
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab5\Lab5\obj\Debug\net8.0-windows\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab5\Lab5\obj\Debug\net8.0-windows\Lab5.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab5\Lab5\obj\Debug\net8.0-windows\Lab5.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab5\Lab5\obj\Debug\net8.0-windows\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab5\Lab5\obj\Debug\net8.0-windows\Lab5.sourcelink.json
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab5\Lab5\obj\Debug\net8.0-windows\Lab5.dll
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab5\Lab5\obj\Debug\net8.0-windows\refint\Lab5.dll
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab5\Lab5\obj\Debug\net8.0-windows\Lab5.pdb
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab5\Lab5\obj\Debug\net8.0-windows\Lab5.genruntimeconfig.cache
+C:\Users\artur\OneDrive\Desktop\3-Sem\Labs - C# + WinForms\Labs\Lab5\Lab5\obj\Debug\net8.0-windows\ref\Lab5.dll
